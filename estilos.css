@@ -12,6 +12,13 @@ button {
 * label+ input {
     border: 5px ridge rgb(182, 0, 0) ;
 }
-margin {
+.margin {
+
     margin: 10px;
 }
+button:hover {
+    color: orange;
+  }
+input:focus{
+      background-color: fuchsia;
+  }
