@@ -4,4 +4,8 @@ body {
     background: #00000096;
     font-size: 12pt;
 }
-
+h1, label {font-style: italic;
+}
+ .rojo {
+    border: 1px solid red;
+}
