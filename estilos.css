@@ -6,6 +6,12 @@ body {
 }
 h1, label {font-style: italic;
 }
- .rojo {
-    border: 1px solid red;
+button {
+    border: solid rgb(0, 174, 255);
+}
+* label+ input {
+    border: 5px ridge rgb(182, 0, 0) ;
+}
+margin {
+    margin: 10px;
 }
